@@ -26,6 +26,7 @@ const Home = () => {
             <div data-aos="fade-up" data-aos-delay="400">
               <button className="bg-gradient-to-r from-primary to-secondary border-2 border-primary rounded-full px-4 py-2 text-white hover:scale-105 duration-200  ">
                 Coffee and code
+                Impact-Site-Verification: e2cef4d3-a516-40f0-a4f9-83d080aa0d73
               </button>
             </div>
           </div>
